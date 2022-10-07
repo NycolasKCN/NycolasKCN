@@ -1,7 +1,7 @@
 <h3> Sobre mim </h3>
 
 - 🖐️ Oi! Meu nome é Nycolas Kevin, mas pode me chamar de Nyc.
-- 🎓 Estudando **Licenciatura em Ciencia da Computação** na <a href="https://www.ufpb.br/">UFPB</a>.
+- 🎓 Gradudando em **Licenciatura em Ciencia da Computação** na <a href="https://www.ufpb.br/">UFPB</a>.
 - 🌱 Aprendendo mais sobre **Spring Boot**.
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
