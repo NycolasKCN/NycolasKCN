@@ -29,14 +29,6 @@
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Notion](https://img.shields.io/badge/-Notion-333333?style=flat&logo=notion&logoColor=fffffff)
 
-<br/>
-
-<a href="https://github.com/NycolasKCN">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NycolasKCN&theme=dracula&show_icons=true" />
-</a>
-
-<br/>
-
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
 [![Linkedin: Nycolas Kevin](https://img.shields.io/badge/-NycolasKCN-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nycolas-kevin-costa-nascimento/)](https://www.linkedin.com/in/nycolas-kevin-costa-nascimento/)
