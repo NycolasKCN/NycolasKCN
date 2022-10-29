@@ -2,7 +2,7 @@
 
 - 🖐️ Oi! Meu nome é **Nycolas Kevin**, mas pode me chamar de **Nyc**.
 - 🎓 Gradudando em **Licenciatura em Ciencia da Computação** na <a href="https://www.ufpb.br/">UFPB</a>.
-- 🌱 Aprendendo mais sobre **Spring Boot**.
+- 🌱 Aprendendo mais sobre **Django e aplicações Web**.
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 
@@ -10,7 +10,6 @@
 
 
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java&logoColor=007396)
-  ![Spring](https://img.shields.io/badge/-SpringBoot-333333?style=flat&logo=Spring&logoColor=80ffaa)
   ![Python](https://img.shields.io/badge/-Python%20-333333?style=flat&logo=Python&logoColor=007396)
   ![SQLite](https://img.shields.io/badge/-SQLite3-333333?style=flat&logo=sqlite&logoColor=003B57)
 
