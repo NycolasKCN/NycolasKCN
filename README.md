@@ -1,35 +1,29 @@
-<h3> Sobre mim </h3>
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-- 🖐️ Oi! Meu nome é **Nycolas Kevin**, mas pode me chamar de **Nyc**.
-- 🎓 Graduando em **Licenciatura em Ciencia da Computação** na <a href="https://www.ufpb.br/">UFPB</a>.
-- 🌱 Aprendendo mais sobre **Django e aplicações Web**.
+<p align="left"> 
+  Olá, meu nome é Nycolas! Pretendo trabalhar como <strong>Desenvolvedor Back-end</strong>.<br>
+  Atualmente graduando em Licenciatura em <strong>Ciências da computação<strong> na UFPB
+</p>
 
-<h3> :rocket: &nbsp;Minhas Skills </h3>
+<p align="left">
+  🦄 Linguagens: <strong>Java e Python</strong>
+</p>
 
-**Aplicações e Dados**
+<p align="left">
+  💼 Ferramentas: <strong>VScode, Postman</strong>
+</p>
 
+<p align="left">
+  💌 Entre em contato: ⤵️
+</p>
 
-  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java&logoColor=007396)
-  ![Python](https://img.shields.io/badge/-Python%20-333333?style=flat&logo=Python&logoColor=007396)
-  ![SQLite](https://img.shields.io/badge/-SQLite3-333333?style=flat&logo=sqlite&logoColor=003B57)
+<p align="left">
+  <a href="#" alt="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=nycolas.kevin2@gmail.com" /></a>
 
-**Utilidades**
+  <a href="#" alt="Linkedin">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/nycolas-kevin-costa-nascimento" /></a>
 
-  ![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia)
-  ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
-
-**DevOps**
-
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-
-**Ferramentas de Desenvolvimento**
-
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![Notion](https://img.shields.io/badge/-Notion-333333?style=flat&logo=notion&logoColor=fffffff)
-
-<h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
-
-[![Linkedin: Nycolas Kevin](https://img.shields.io/badge/-NycolasKCN-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nycolas-kevin-costa-nascimento/)](https://www.linkedin.com/in/nycolas-kevin-costa-nascimento/)
-[![Gmail Badge](https://img.shields.io/badge/-nycolas.costa@dcx.ufpb.br-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nycolas.costa@dcx.ufpb.br)](mailto:nycolas.costa@dcx.ufpb.br)
-[![GitHub Nycolas Kevin]( https://img.shields.io/github/followers/NycolasKCN?label=follow&style=social)](https://github.com/NycolasKCN)
+  <a href="#" alt="Instagram">
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/_imnyc/"/></a>
+</p>  
