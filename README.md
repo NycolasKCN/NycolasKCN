@@ -2,15 +2,25 @@
 
 <p align="left"> 
   Olá, meu nome é Nycolas! Pretendo trabalhar como <strong>Desenvolvedor Back-end</strong>.<br>
-  Atualmente graduando em Licenciatura em <strong>Ciências da computação<strong> na UFPB
+  Atualmente graduando em Licenciatura em <strong>Ciências da computação</strong> na UFPB
+</p>
+
+<p aling="left"> 
+  <strong>O que estou fazendo:</strong>
+  <ul>
+    <li>Estudando sobre IA no grupo de estudos "Neuron Byte"</li>
+    <li>Aprendendo c e c++</li>
+    <li>Estudando com meus amigos para a próxima Maratona SBC</li>
+  </ul>
 </p>
 
 <p align="left">
   🦄 Linguagens: <strong>Java e Python</strong>
 </p>
+<p aling="left">
 
 <p align="left">
-  💼 Ferramentas: <strong>VScode, Postman</strong>
+  💼 Ferramentas: <strong>VScode, Intellij IDEA, Postman</strong>
 </p>
 
 <p align="left">
