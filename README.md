@@ -8,7 +8,7 @@
 <p aling="left"> 
   <strong>O que estou fazendo:</strong>
   <ul>
-    <li>Fazendo projetos legais no grupo <a href="neuron-byte.github.io" target="_blank">Neuron Byte</a>.</li>
+    <li>Fazendo projetos legais no grupo <a href="https://neuron-byte.github.io" target="_blank">Neuron Byte</a>.</li>
     <li>Aprendendo c e c++</li>
   </ul>
 </p>
