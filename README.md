@@ -1,26 +1,25 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Olá, meu nome é Nycolas! Pretendo trabalhar como <strong>Desenvolvedor Back-end</strong>.<br>
-  Atualmente graduando em Licenciatura em <strong>Ciências da computação</strong> na UFPB
+  Olá, meu nome é Nycolas!<br>
+  Atualmente graduando em Licenciatura em <strong>Ciências da computação</strong> na UFPB.
 </p>
 
 <p aling="left"> 
   <strong>O que estou fazendo:</strong>
   <ul>
-    <li>Estudando sobre IA no grupo de estudos "Neuron Byte"</li>
+    <li>Fazendo projetos legais no grupo <a href="neuron-byte.github.io" target="_blank">Neuron Byte</a>.</li>
     <li>Aprendendo c e c++</li>
-    <li>Estudando com meus amigos para a próxima Maratona SBC</li>
   </ul>
 </p>
 
 <p align="left">
-  🦄 Linguagens: <strong>Java e Python</strong>
+  Linguagens: <strong>Java e Python</strong>
 </p>
 <p aling="left">
 
 <p align="left">
-  💼 Ferramentas: <strong>VScode, Intellij IDEA, Postman</strong>
+  Ferramentas: <strong>VScode, Intellij IDEA, GIT, Postman</strong>
 </p>
 
 <p align="left">
