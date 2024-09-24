@@ -8,13 +8,14 @@
 <p aling="left"> 
   <strong>O que estou fazendo:</strong>
   <ul>
-    <li>Fazendo projetos legais no grupo <a href="https://neuron-byte.github.io" target="_blank">Neuron Byte</a>.</li>
-    <li>Aprendendo c e c++</li>
+    <li>Fazendo projetos legais envolvendo robótica e IA no grupo <a href="https://neuron-byte.github.io" target="_blank">Neuron Byte</a>.</li>
+    <li>Aprendendo rust</li>
+    <li>Entusiasta em HomeLabs</li>
   </ul>
 </p>
 
 <p align="left">
-  Linguagens: <strong>Java e Python</strong>
+  Linguagens: <strong>Java, Python, C++</strong>
 </p>
 <p aling="left">
 
