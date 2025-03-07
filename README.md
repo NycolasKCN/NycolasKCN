@@ -3,7 +3,6 @@
 <p align="left"> 
   Olá, meu nome é Nycolas!<br>
   Atualmente graduando em Licenciatura em <strong>Ciências da computação</strong> na UFPB.
-  Gosto muito 
 </p>
 
 <p aling="left"> 
