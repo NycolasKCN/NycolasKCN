@@ -11,8 +11,7 @@
   <strong>What I'm working on:</strong>
   <ul>
     <li>Web development and maintenance of the <a href="https://ideal.ufpb.br/ideal-game/" target="_blank">IDEAL game</a> for the <a href="https://ideal.ufpb.br" target="_blank">IDEAL research lab</a>, under the Apps4Society extension project.</li>
-    <li>Volunteering in the research and outreach project <a href="https://a4s.dev.br" target="_blank">Apps4Society</a>.</li>
-    <li>Building cool projects involving robotics and AI with the <a href="https://neuron-byte.github.io" target="_blank">Neuron Byte</a> group.</li>
+    <li>Fullstack development at <a href="https://ayty.org/" target="_blank">AYTY</a> software engineering lab</li>
   </ul>
 </p>
 
@@ -50,7 +49,7 @@
     <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
     <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" height="30" alt="arch linux logo"  />
     <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
     <img width="12" />
@@ -61,12 +60,13 @@
 
 <div align="left">
   <p align="left">
-    💌 Get in touch: ⤵️
+    Get in touch: ⤵️
   </p>
   <a href="https://www.linkedin.com/in/nycolas-kevin-costa-nascimento/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" height="30" alt="linkedin logo"  />
   </a>
+  <img width="12" />
   <a href="mailto:nycolas.costa@dcx.ufpb.br" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" height="30" alt="gmail logo"  />
   </a>
 </div>
