@@ -10,8 +10,7 @@
 <p align="left"> 
   <strong>What I'm working on:</strong>
   <ul>
-    <li>Web development and maintenance of the <a href="https://ideal.ufpb.br/ideal-game/" target="_blank">IDEAL game</a> for the <a href="https://ideal.ufpb.br" target="_blank">IDEAL research lab</a>, under the Apps4Society extension project.</li>
-    <li>Fullstack development at <a href="https://ayty.org/" target="_blank">AYTY</a> software engineering lab</li>
+    <li>Full-stack development at <a href="https://ayty.org/" target="_blank">AYTY</a> software engineering lab, developing an e-commerce platform for <a href="https://ayty.org/projects/alepessoa/" target="_blank">Alê Pessoa</a></li>
   </ul>
 </p>
 
