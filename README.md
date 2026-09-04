@@ -61,7 +61,7 @@
   <p align="left">
     Get in touch: ⤵️
   </p>
-  <a href="https://www.linkedin.com/in/nycolas-kevin-costa-nascimento/" target="_blank">
+  <a href="https://www.linkedin.com/in/nycolaskcn" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" height="30" alt="linkedin logo"  />
   </a>
   <img width="12" />
